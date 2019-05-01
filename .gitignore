@@ -1,3 +1,6 @@
 /.vs
 /meetingPo/bin
 /meetingPo/obj
+/Debug
+/ipch
+/cursorDLL/Debug
