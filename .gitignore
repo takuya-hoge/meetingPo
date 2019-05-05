@@ -4,3 +4,7 @@
 /Debug
 /ipch
 /cursorDLL/Debug
+/cursorDLL/cursorDLL.vcxproj.filters
+/meetingPo.VC.db
+/cursorDLL/cursorDLL.vcxproj.user
+/meetingPo.VC.VC.opendb
