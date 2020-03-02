@@ -1,9 +1,21 @@
 # meetingPo
 
-This program can display pointers for web meetings.
+このツールは、デスクトップを共有しながらWebミーティングをする際の補助ツールです。
+太線と四角枠をデスクトップ状に表示することが出来ます。
 
-You can not specify the location at the web meeting.
-Using this program, you can point out detailed places even if you have an unknown name.
-(I hope so...)
+## 機能の詳細
+チェックボタン操作により、以下の通りに表示されます。
 
-Thank you
+∠（ ・∀・）／　　：　カーソルを大きくする
+
+黒 - (･-･)つ □ 　　：　黒四角枠を表示する
+
+赤 - (･-･)つ □ 　　：　赤四角枠を表示する
+
+青 - (･-･)つ □ 　　：　青四角枠を表示する
+
+黒 - (*・・)つ --　：　黒太線を表示する
+
+赤 - (*・・)つ --　：　赤太線を表示する
+
+青 - (*・・)つ --　：　青太線を表示する
